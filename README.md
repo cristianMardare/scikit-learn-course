@@ -1,6 +1,8 @@
 # scikit-learn-course
 
-Jupyter notebooks for [Building Your First scikit-learn Solution](https://www.pluralsight.com/courses/building-first-scikit-learn-solution) course on Pluralsight
+Jupyter notebooks for different courses on Pluralsight:
+- [Building Your First scikit-learn Solution](https://www.pluralsight.com/courses/building-first-scikit-learn-solution)
+- [Building Classification Models with scikit-learn](https://app.pluralsight.com/library/courses/building-classification-models-scikit-learn)
 
 ## Setup
 
